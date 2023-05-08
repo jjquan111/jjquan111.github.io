@@ -18,4 +18,4 @@ My GitHub page is https://github.com/jjquan111.
 
 * Lab 8
 
-    Lab 8, I like part-1 because it ends up printing. When I use a for loop every next line add a "-" and a "|" see printed pattern after I over the magic of the code.
+    Lab 8, I like part-1 because it ends up printing. When I use a for loop every next line add '-' and '|' see printed pattern after I over the magic of the code.
